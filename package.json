@@ -1,0 +1,8 @@
+{
+	"name": "darpa-sherpa",
+	"version": "1.0.0",
+	"description": "Harp App on Heroku",
+	"dependencies": {
+	  "harp": "*"
+	}
+  }
