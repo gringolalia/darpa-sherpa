@@ -1,0 +1,8 @@
+{
+	"name": "sherpa-da-darpa",
+	"version": "1.0.0",
+	"description": "Sherpa Harpist Climbs Heroku",
+	"dependencies": {
+	  "harp": "*"
+	}
+  }
